@@ -4,7 +4,8 @@ individual project
 
 Course name : Computer Graphics-1 : IT-331 Semester-2 (Spring-2021) 
 
-Dr. Mohammed El-Said 1- 
+Dr. Mohammed El-Said
+
 Requirements
 
 1- DDA Algorithm ( Digital Differential Analyzer )  
